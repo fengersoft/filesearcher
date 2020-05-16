@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/often.png</file>
+        <file>res/recent.png</file>
+    </qresource>
+</RCC>
